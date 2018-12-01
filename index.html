@@ -1,0 +1,132 @@
+<head>
+<title>Hansard</title>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Style the search field */
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 15%;
+  padding: 14px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+<script>
+    $.getJSON('mydata.json', function(data) {
+    
+});
+    </script>
+</head>
+<body>
+<nav class="navbar navbar-expand-sm bg-light navbar-light">
+  <ul class="navbar-nav">
+    <li class="nav-item active">
+      <a class="nav-link" href="#">Homepage</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Commons</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Lords</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">About</a>
+    </li>
+  </ul>
+</nav>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+<div class="jumbotron text-center">
+  <h1 style="color: darkcyan">Welcome to Hansard</h1>
+  <p>Providing concise and summarised reports of all parliamentary debates</p> 
+  <form class="example" action="action_page.php">
+  <input type="text" placeholder="Search this database.." name="search">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+</div>
+<br>
+<br>
+<div class="row">
+  <div class="col-sm-6" style="background-color: green; border:10px solid #fff;">
+      <h4 style="text-align: left">House of commons <b>Hansard</b></h3>
+  </div>
+  <div class="col-sm-6" style="background-color: red; border:10px solid #fff;">
+    <h4 style="text-align: left">House of commons <b>Hansard</b></h3>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-sm-6">
+      <button type="button" onclick="location.href='data.html';" class="btn btn-primary btn-lg btn-block">View latest sitting</button>
+  </div>
+  <div class="col-sm-6">
+    <button type="button" onclick="location.href='data.html';" class="btn btn-primary btn-lg btn-block">View latest sitting</button>
+    </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-sm-3">
+      <button type="button" class="btn btn-primary btn-lg btn-block">Browse sittings</button>
+  </div>
+  <div class="col-sm-3">
+    <button type="button" class="btn btn-primary btn-lg btn-block">Browse debates</button>
+    </div>
+    <div class="col-sm-3">
+      <button type="button" class="btn btn-primary btn-lg btn-block">Browse sittings</button>
+  </div>
+  <div class="col-sm-3">
+    <button type="button" class="btn btn-primary btn-lg btn-block">Browse debates</button>
+    </div>
+</div>
+<br>
+<div class="row">
+  <div class="col-sm-3">
+      <button type="button" class="btn btn-primary btn-lg btn-block">Find Divisions</button>
+  </div>
+  <div class="col-sm-3">
+    <button type="button" class="btn btn-primary btn-lg btn-block">Find MPs</button>
+    </div>
+    <div class="col-sm-3">
+      <button type="button" class="btn btn-primary btn-lg btn-block">Find Divisions</button>
+  </div>
+  <div class="col-sm-3">
+    <button type="button" class="btn btn-primary btn-lg btn-block">Find MPs</button>
+    </div>
+</div>
+<br>
+<br>
+<p>Copyright &copy; Anon 2018</p>
+</body>
