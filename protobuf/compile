@@ -1,0 +1,2 @@
+python -m grpc_tools.protoc -I=. --python_out=../summarize --grpc_python_out=../summarize summarization.proto
+protoc -IPATH=. --java_out=../ingestion/src/main/java/main/protos summarization.proto
