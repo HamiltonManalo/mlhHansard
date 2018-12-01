@@ -29,19 +29,3 @@ buildscript {
         classpath("org.apache.httpcomponents:httpclient:4.5.6")
     }
 }
-//
-//protobuf {
-//    protoc {
-//        artifact "com.google.protobuf:protoc:3.5.1-1"
-//    }
-//    plugins {
-//        grpc {
-//            artifact = "io.grpc:protoc-gen-grpc-java:1.16.1"
-//        }
-//    }
-//    generateProtoTasks {
-//        all()*.plugins {
-//            grpc {}
-//        }
-//    }
-//}
