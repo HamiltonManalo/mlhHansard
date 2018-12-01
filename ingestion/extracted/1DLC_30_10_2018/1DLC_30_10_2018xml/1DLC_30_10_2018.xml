@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?><HansardDoc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.parliament.uk/commons/hansard/print file:/C:/TIMS%20ValidationApp/LIVE_SCHEMA%2011022016/MNIS%20Schema%20May2018/CommonsHansard_Print.xsd"
+ xmlns="http://www.parliament.uk/commons/hansard/print"><House name="CommonsCommittees"><System type="Cover"><?date 2018-10-30?><Fragment __lock__="0" __shareable__="false" __uri__="/files/documents/default/Committees/Commons/2017_2019/Committee_30/Debate_2884/Sitting_4924/Cover/1C369BFFE6645398780A08FFD558DDDF02F2700F" __version__="1.1"><Cover-wrapper><Cover cdate="03" cday="Saturday" cmonth="November" committee="First Delegated Legislation Committee" cyear="2018" date="30" day="Tuesday" debate="Draft Freedom of Information (Designation as Public Authority and Amendment) Order 2018" month="October" part="I" price="5@010c00" printing="sitting" session="2017 - 2019" sittingtime="No sitting time" type="front" year="2018"></Cover></Cover-wrapper></Fragment></System><System ColStart="1" type="Debate"><Fragment __lock__="0" __shareable__="false" __uri__="/files/documents/default/Committees/Commons/2017_2019/Committee_30/Debate_2884/Sitting_4924/0269872CCA8E2E18615B51A54F885076632C1118" __version__="1.2"><Header><House>0</House><System>2</System><Sitting short-date="30 October 2018">Tuesday
+30 October 2018</Sitting><Section>Attended
+list</Section><Committee>First Delegated Legislation
+Committee</Committee><Title>Freedom of Information (Designation of
+Public
+Authority)</Title><SittingTime>PM</SittingTime><SystemDataId>1DL-1-20181030-PM</SystemDataId><TransformationVersion>0.7</TransformationVersion></Header><Body xml:space="preserve"><hs_CLHeading>The
+Committee consisted of the following
+Members:</hs_CLHeading><hs_CLChairman><I>Chair:</I>
+<Member ContributionType="None Other" HRSContentId="{1D59BC08-AF88-42C2-9FD5-7566BEBFA799}" MnisId="533" PimsId="-1" UID="18103032000032" xid="253" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000032">David
+Hanson</Member></hs_CLChairman><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{B9E023DC-A474-4B90-9F11-64EF7E4F4C56}" MnisId="4411" PimsId="-1" UID="18103032000033" xid="1255" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000033">Allan,
+Lucy <I>(Telford)</I> (Con)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{F5A8DEBE-D09A-4E25-AB32-43B12E708BB1}" MnisId="3910" PimsId="-1" UID="18103032000034" xid="1002" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000034">Bebb,
+Guto <I>(Aberconwy)</I>
+(Con)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{16633BF5-426E-4E25-8914-A5950DAA9DAC}" MnisId="4601" PimsId="-1" UID="18103032000035" xid="1450" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000035">Bowie,
+Andrew <I>(West Aberdeenshire and Kincardine)</I>
+(Con)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{B74D568C-DE41-4A04-BE85-CE811A62A840}" MnisId="4056" PimsId="-1" UID="18103032000036" xid="1143" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000036">Dakin,
+Nic <I>(Scunthorpe)</I>
+(Lab)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{70269961-37C4-4A70-84BB-661501E00385}" MnisId="4452" PimsId="-1" UID="18103032000037" xid="1298" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000037">Double,
+Steve <I>(St Austell and Newquay)</I>
+(Con)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{3EB719AC-164A-4C4E-9B78-F4DF23B89D1C}" MnisId="4473" PimsId="-1" UID="18103032000038" xid="1318" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000038">Haigh,
+Louise <I>(Sheffield, Heeley)</I>
+(Lab)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{08B5400D-AB0B-4DC1-81AD-18372FE5E224}" MnisId="1479" PimsId="-1" UID="18103032000039" xid="800" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000039">Herbert,
+Nick <I>(Arundel and South Downs)</I>
+(Con)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{3BD3C6A9-C4F8-4930-AC2C-8C0EB1A4A072}" MnisId="1561" PimsId="-1" UID="18103032000040" xid="883" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000040">Hurd,
+Mr Nick <I>(Minister for Policing and the Fire
+Service)</I></Member></hs_CLMember><hs_CLMember><Member ContributionType="None Other" HRSContentId="{533D6279-3664-4B87-B361-0777263AEAEC}" MnisId="1533" PimsId="-1" UID="18103032000041" xid="854" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000041">Johnson,
+Diana <I>(Kingston upon Hull North)</I>
+(Lab)</Member></hs_CLMember><hs_CLMember><Member ContributionType="None Other" HRSContentId="{6EE9340C-D55A-4DB1-AF61-D58259EB0BD7}" MnisId="4253" PimsId="-1" UID="18103032000042" xid="1237" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000042">Malhotra,
+Seema <I>(Feltham and Heston)</I>
+(Lab/Co-op)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{0F42C66D-7669-4A2F-BB55-0D42E2E82593}" MnisId="4625" PimsId="-1" UID="18103032000043" xid="1497" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000043">Masterton,
+Paul <I>(East Renfrewshire)</I>
+(Con)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{B7CCDC8B-1274-4E8E-8BFD-1BAF6B867453}" MnisId="3926" PimsId="-1" UID="18103032000044" xid="1018" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000044">Maynard,
+Paul <I>(L</I><I>ord Commissioner of Her Majesty’</I><I>s
+Treasury)</I></Member></hs_CLMember><hs_CLMember><Member ContributionType="None Other" HRSContentId="{FAE6580E-BB4D-4D23-9553-AE8D42719B3F}" MnisId="4046" PimsId="-1" UID="18103032000045" xid="1223" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000045">Phillipson,
+Bridget <I>(Houghton and Sunderland South)</I>
+(Lab)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{57F7DF9F-B86F-4891-8BB8-1FF21E4CB887}" MnisId="4627" PimsId="-1" UID="18103032000046" xid="1515" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000046">Ross,
+Douglas <I>(Moray)</I>
+(Con)</Member></hs_CLMember><hs_CLMember>†
+<Member ContributionType="None Other" HRSContentId="{64231BAE-8BCB-45A1-8DA8-9A7395047290}" MnisId="4518" PimsId="-1" UID="18103032000047" xid="1401" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000047">Siddiq,
+Tulip <I>(Hampstead and Kilburn)</I>
+(Lab)</Member></hs_CLMember><hs_CLMember><Member ContributionType="None Other" HRSContentId="{3C4CA275-1FB8-4F70-9C72-B3FBD920FF4C}" MnisId="4609" PimsId="-1" UID="18103032000048" xid="1520" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000048">Smith,
+Eleanor <I>(Wolverhampton South West)</I>
+(Lab)</Member></hs_CLMember><hs_CLMember><Member ContributionType="None Other" HRSContentId="{583ED259-5A2C-4310-85B9-663F9EF598E5}" MnisId="4617" PimsId="-1" UID="18103032000049" xid="1529" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000049">Western,
+Matt <I>(Warwick and Leamington)</I>
+(Lab)</Member></hs_CLMember><hs_CLClerks>Laura-Jane Tiley, Jeanne
+Delebarre, <I>Committee Clerks</I></hs_CLClerks><hs_CLAttended>†
+attended the Committee</hs_CLAttended></Body><?notus-xml column=3?></Fragment><Fragment __lock__="0" __shareable__="false" __uri__="/files/documents/default/Committees/Commons/2017_2019/Committee_30/Debate_2884/Sitting_4924/E84B1C18133F2E79D05C304CB35AA2A0144BB004" __version__="1.2"><Header><House>0</House><System>2</System><Sitting short-date="30 October 2018">Tuesday
+30 October 2018</Sitting><Section>AA-AB</Section><Committee>First
+Delegated Legislation Committee</Committee><Title>Freedom of
+Information (Designation of Public
+Authority)</Title><SittingTime>PM</SittingTime><SystemDataId>1DL-1-20181030-PM</SystemDataId><TransformationVersion>0.7</TransformationVersion></Header><Body xml:space="preserve"><hs_3MainHdg HRSContentId="{AC1CF313-F572-4007-9364-F1103C4DA933}" UID="18103032000002" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000002">First
+Delegated Legislation
+Committee</hs_3MainHdg><hs_6fDate UID="18103032000003" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000003"><I>Tuesday
+30 October
+2018</I></hs_6fDate><hs_76fChair UID="18103032000004" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000004"><SmallCaps>[David
+Hanson</SmallCaps> <I>in the
+Chair</I>]</hs_76fChair><hs_2DebatedMotion UID="18103032000001" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000001"><B>Draft
+Freedom of Information (Designation as Public Authority and Amendment)
+Order
+2018</B></hs_2DebatedMotion><hs_Timeline UID="18103032000028" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000028">2.30
+pm</hs_Timeline><hs_Para UID="18103032000005" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000005"><B><Member ContinuationText="Mr Nick Hurd" ContributionType="Start Speech" HRSContentId="{D6343752-0EB9-4B18-A39C-CE2F2108C012}" MnisId="1561" PimsId="4800" UID="18103032000050" xid="883" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000050">The
+Minister for Policing and the Fire Service (Mr Nick
+Hurd):</Member></B> I beg to
+move<hs_TimeCode time="2018-10-30T14:30:27"></hs_TimeCode><hs_TimeCode time="2018-10-30T14:30:27"></hs_TimeCode>,</hs_Para><hs_brev UID="18103032000027" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000027">That
+the Committee has considered the draft Freedom of Information
+(Designation as Public Authority and Amendment) Order
+2018<hs_TimeCode time="2018-10-30T14:30:18"></hs_TimeCode>.</hs_brev><hs_Para UID="18103032000006" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000006">It
+is a great pleasure to serve under your chairmanship, Mr Hanson, I
+believe for the first
+time<hs_TimeCode time="2018-10-30T14:30:31"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000007" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000007">The
+purpose of the draft order is to bring the public functions of the
+National Police Chiefs Council within the scope of the Freedom of
+Information Act. That is to ensure continuity in the scope of the Act
+by extending it to the council in the same way as it included the
+predecessor organisation, the Association of Chief Police
+Officers<hs_TimeCode time="2018-10-30T14:31:00"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000008" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000008">As
+to the detail of the draft order, section 5(1)(a) of the Freedom of
+Information Act 2000, as amended, enables the Secretary of State to
+designate any person as a public authority if they appear to the
+Secretary of State to exercise functions of a public nature. Where a
+body is designated as a public authority, it is also
+necessary—under section 7(5) of the Act—to specify each
+of the body’s functions as appear to the Secretary of State to
+be of a public nature. Only those functions specified in the schedule
+in relation to article 3 of this order will be subject to the
+Act<hs_TimeCode time="2018-10-30T14:31:35"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000009" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000009">As
+with the ACPO, it appears to the Secretary of State that the NPCC
+exercises functions of a public nature in relation to all its
+functions. The council provides national police co-ordination and
+leadership, and brings together police forces throughout the UK, as
+well as in the armed services and the Crown dependencies. Some of the
+council’s co-ordination and leadership functions are delivered
+in conjunction with the College of Policing, the professional body that
+provides the policing skills and knowledge necessary to prevent crime
+and to protect the
+public<hs_TimeCode time="2018-10-30T14:32:09"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000010" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000010">The
+functions set out in the draft order reflect those in clause 7 of the
+collaboration agreement that established the NPCC. The Secretary of
+State considers that each of those functions makes a fundamental
+contribution to the policing of the state in such a way that they are,
+together and individually, functions of a public nature that are
+eligible for inclusion in an order made under section 5 of the Freedom
+of Information
+Act<hs_TimeCode time="2018-10-30T14:32:40"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000011" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000011">I
+confirm that the NPCC has been consulted about the functions covered in
+the draft order. It views its inclusion under the Freedom of
+Information Act positively and is in agreement with the Secretary of
+State about the scope of the order. We welcome the constructive way in
+which the NPCC has engaged with the Home Office in drawing up the
+order<hs_TimeCode time="2018-10-30T14:32:53"></hs_TimeCode>.</hs_Para>
+<?notus-xml column=4?><hs_Para UID="18103032000012" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000012">In addition to
+designating the NPCC, this draft instrument removes the designation of
+ACPO. That is a question of legislative tidying up, because ACPO has
+been liquidated and no longer exists. This amendment will update the
+statute book to reflect that. The liquidators of ACPO were consulted,
+as required, and are
+content<hs_TimeCode time="2018-10-30T14:33:18"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000013" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000013">I
+recognise that the draft order has taken some time to get to this
+stage. I made a statement on 6 November last year that the Government
+would introduce an order to ensure continuity in transparency following
+the winding up of ACPO and the taking on of its functions by the NPCC.
+As I have mentioned, there has been a statutory consultation with the
+new body to ensure that all necessary functions were covered by this
+order as
+appropriate<hs_TimeCode time="2018-10-30T14:33:42"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000014" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000014">I
+should make it clear that the NPCC ensured against any retraction in
+transparency during the transition period, when taking over the
+functions of ACPO. The council publishes large amounts of information
+proactively and responded to information requests voluntarily during
+the short period that it was not formally covered by the Freedom of
+Information Act. I am sure the Committee agrees that that is highly
+commendable<hs_TimeCode time="2018-10-30T14:34:05"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000015" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000015">The
+draft order builds on the solid foundations of the order that brought
+ACPO under the Freedom of Information Act by providing a legally
+enforceable right to request information of the NPCC. I hope that hon.
+Members on both sides of the Committee agree that the order is an
+important step to maintaining transparency, and that they welcome the
+new rights of access to information that it will
+bring<hs_TimeCode time="2018-10-30T14:34:35"></hs_TimeCode>.</hs_Para><hs_Timeline UID="18103032000029" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000029">2.34
+pm</hs_Timeline><hs_Para UID="18103032000016" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000016"><Member ContinuationText="Louise Haigh" ContributionType="Start Speech" HRSContentId="{5FBCECBC-50BB-4D3A-8BDA-D612B6284E83}" MnisId="4473" PimsId="6075" UID="18103032000051" xid="1318" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000051"><B>Louise
+Haigh</B> (Sheffield, Heeley) (Lab):</Member> It is a great pleasure to
+serve under your chairmanship, Mr
+Hanson<hs_TimeCode time="2018-10-30T14:34:42"></hs_TimeCode>.</hs_Para><hs_Para UID="18103032000017" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000017">The
+previous Labour Government introduced the Freedom of Information Act,
+and the Opposition wholeheartedly support the draft order. As the
+Minister suggested, he responded to my parliamentary question back in
+September, so Labour has been calling for the measure for some time, as
+has the NPCC. As he rightly said, the NPCC has been behaving as if it
+were already covered by the Act, which we agree is thoroughly
+commendable.</hs_Para><hs_Para UID="18103032000018" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000018">I
+want to push the Minister on his point about the information that the
+NPCC publishes proactively and question the extent to which the Home
+Office can require information to be published or the NPCC to respond.
+For example, in the past 18 months or so, the NPCC has been collating
+and publishing information on acid attacks. I believe there is a
+commitment to continue publishing such information. Was that at the
+request of the Home Office? Is the NPCC obligated under any statutory
+instrument to publish such information at the request of the
+Government?</hs_Para>
+<hs_Para UID="18103032000019" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000019">The NPCC has
+published statistics on Operation Hydrant, which is the investigation
+into historical child sex abuse, but the statistics it is publishing
+are headline stats on the number of individuals involved. How often is
+the NPCC required to report on that? What elements should it be
+reporting on? For example, should it be reporting on the progress or
+length of the investigations?</hs_Para>
+<hs_Para UID="18103032000020" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000020">The NPCC also
+reports on automatic number plate recognition and its functions. Is
+that a Home Office request, too, under proactive publication? Given the
+reasons it publishes on ANPR—the invasion of people’s 
+<?notus-xml column=5?>individual privacy—would it not be beneficial for it to report on
+facial recognition and the implications for privacy and security? It is
+being used by police forces across the country, particularly the Met
+and South
+Wales.</hs_Para><hs_Para UID="18103032000021" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000021">Finally,
+will the Minister confirm that the extension of the Freedom of
+Information Act covers correspondence between the NPCC and the
+Government? For instance, does it cover the letter that the NPCC
+reportedly sent to the Treasury last Tuesday, threatening legal action
+on the basis of the Government’s proposed pension changes? I
+would be grateful for that clarification, and we wholeheartedly support
+the
+order<hs_TimeCode time="2018-10-30T14:37:32"></hs_TimeCode>.</hs_Para><hs_Timeline UID="18103032000030" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000030">2.37
+pm</hs_Timeline><hs_Para UID="18103032000022" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000022"><B><Member ContinuationText="Mr Hurd" ContributionType="Start Speech" HRSContentId="{3D9D69F8-C872-4492-867C-A33C1CBA9884}" MnisId="1561" PimsId="4800" UID="18103032000052" xid="883" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000052">Mr
+Hurd:</Member></B> I thank the hon. Lady for her support and her
+constructive approach. It has taken too long to get to this point.
+While I think we can all agree on that, I hope we all also agree that
+the NPCC is now formally bound into the Freedom of Information Act. It
+is a particular pleasure to see the chair of the NPCC gracing us with
+her presence today. She missed the recognition 
+<?notus-xml column=6?>from all parts of the Committee of the extremely constructive and
+commendable way in which the council has behaved in this interim
+period.</hs_Para>
+<hs_Para UID="18103032000023" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000023">There is no
+statutory obligation to publish statistics. I am not aware of any
+specific requests from the Home Office, but I will check and reply to
+the hon. Lady. As I pointed out, the NPCC already voluntarily behaves
+as if it is covered by the Freedom of Information Act. Since 2012, ACPO
+and the NPCC have, on average, received 250 to 300 requests a year. If
+the legislation is passed, it will take effect almost immediately. The
+NPCC will then be covered by existing
+legislation.</hs_Para><hs_Para UID="18103032000024" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000024">What
+is available to the public to request is as per the rules. The hon.
+Lady can be congratulated on her cheeky and opportunistic attempt to
+bring up the issue of police funding and pensions, but there is no need
+for the public to request that under the Freedom of Information Act
+because they can simply read about it in the
+newspaper.</hs_Para><hs_Para UID="18103032000025" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000025"><I>Question
+put and agreed
+to.</I></hs_Para><hs_Timeline UID="18103032000031" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000031">2.39
+pm<hs_TimeCode time="2018-10-30T14:39:34"></hs_TimeCode></hs_Timeline><hs_Para UID="18103032000026" tab="yes" url="../pa/cm/cmhansrd/cm181030/debtext/181030-0001.htm#18103032000026"><I>Committee
+rose.</I></hs_Para></Body></Fragment></System></House></HansardDoc>
