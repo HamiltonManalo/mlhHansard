@@ -1,19 +1,19 @@
 {
    "master": [
        {
-           "Title": "Test",
-           "Date_Retrieved": "22/03/2015",
-           "Author": "Test",
-           "Original_Text": "example text",
-           "Parsed_Text": "example parsed text"
+           "Title": "EU Withdrawal legal agreement",
+           "Date_Retrieved": "01/12/2018",
+           "Author": "Robert Buckland",
+           "Original_Text": "The Government recognise the legitimate desire of Members on all sides of the House to understand the withdrawal agreement and its legal effect. That is why my right hon. Friend the Chancellor of the Duchy of Lancaster confirmed to the House on Tuesday 13 November that the Government will publish a full reasoned statement to set out their position on the legal effect of the withdrawal agreement. That is in addition to the material that the Government have already published, including, for example, a detailed explainer of the withdrawal agreement and a technical explanatory note on the Northern Ireland protocol. My right hon. and learned Friend the Attorney General will also make a statement to the House on Monday 3 December—the next sitting day—about the legal effect of the agreement, and he will answer questions from Members, I am sure in the fullest possible way.",
+           "Parsed_Text": "Parsed text goes here"
        },
        
        {
-           "Title": "Test2",
-           "Date_Retrieved": "22/04/2017",
-           "Author": "Test2",
-           "Original_Text": "example text2",
-           "Parsed_Text": "example parsed text2"
+           "Title": "SNP comment on the EU withdrawal agreement",
+           "Date_Retrieved": "01/12/2018",
+           "Author": "Peter Grant",
+           "Original_Text": "I commend the right hon. and learned Member for Holborn and St Pancras (Keir Starmer) on securing this urgent question. A dangerous pattern is developing here. First, the Government tried to avoid their obligations under a previous Humble Address to release their impact assessments, and on two instances, senior Conservative ex-Ministers were given guarantees by Ministers at the Dispatch Box, which they then claimed publicly had been broken. Now we see the Government trying to wriggle out of yet another binding decision of this House.Mr Speaker, this is not the time or the place to re-run the discussion about whether it was a good idea for that motion on an Humble Address to have been passed. How ironic that the Government want to re-run a debate on something that has already been voted on—just think about that! This is not the time to discuss its merits. As has been said, if the Government did not want to comply with the instruction, they should have instructed their MPs to vote against it. The reason they did not was that they knew they would have lost the vote. Does the Solicitor General accept the ruling of the Chair that this decision is binding on the Government? If so, when do the Government intend to comply with the instruction they have had from representatives of the sovereign citizens of these islands?",
+           "Parsed_Text": "Parsed text goes here"
        }
    ]
 }
