@@ -1,0 +1,19 @@
+{
+   "master": [
+       {
+           "Title": "Test",
+           "Date_Retrieved": "22/03/2015",
+           "Author": "Test",
+           "Original_Text": "example text",
+           "Parsed_Text": "example parsed text"
+       },
+       
+       {
+           "Title": "Test2",
+           "Date_Retrieved": "22/04/2017",
+           "Author": "Test2",
+           "Original_Text": "example text2",
+           "Parsed_Text": "example parsed text2"
+       }
+   ]
+}
