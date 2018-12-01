@@ -56,9 +56,10 @@ public class requestHandler {
         while (zipEntry != null) {
             ArrayList<Byte> file = new ArrayList<>();
             if(zipEntry.getName().toLowerCase().contains("xml")) {
+                ByteArrayInputStream x = new ByteArrayInputStream(buffer);
                 int len = 0;
                 while((len = zis.read(buffer)) > 0) {
-                    file.addAll(buffer);
+
                 }
             }
 
