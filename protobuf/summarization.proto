@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+message Speech{
+	string speech = 1;
+}
+
+message SummarizedSpeech{
+	string speech = 1;
+}
+
+service SummarizationService{
+	rpc SummarizeText (Speech) returns (SummarizedSpeech);
+}
