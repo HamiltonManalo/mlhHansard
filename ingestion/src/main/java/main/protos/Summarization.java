@@ -114,7 +114,7 @@ public final class Summarization {
       if (ref instanceof java.lang.String) {
         return (java.lang.String) ref;
       } else {
-        com.google.protobuf.ByteString bs = 
+        com.google.protobuf.ByteString bs =
             (com.google.protobuf.ByteString) ref;
         java.lang.String s = bs.toStringUtf8();
         speech_ = s;
@@ -128,7 +128,7 @@ public final class Summarization {
         getSpeechBytes() {
       java.lang.Object ref = speech_;
       if (ref instanceof java.lang.String) {
-        com.google.protobuf.ByteString b = 
+        com.google.protobuf.ByteString b =
             com.google.protobuf.ByteString.copyFromUtf8(
                 (java.lang.String) ref);
         speech_ = b;
@@ -464,7 +464,7 @@ public final class Summarization {
           getSpeechBytes() {
         java.lang.Object ref = speech_;
         if (ref instanceof String) {
-          com.google.protobuf.ByteString b = 
+          com.google.protobuf.ByteString b =
               com.google.protobuf.ByteString.copyFromUtf8(
                   (java.lang.String) ref);
           speech_ = b;
@@ -481,7 +481,7 @@ public final class Summarization {
         if (value == null) {
     throw new NullPointerException();
   }
-  
+
         speech_ = value;
         onChanged();
         return this;
@@ -490,7 +490,7 @@ public final class Summarization {
        * <code>string speech = 1;</code>
        */
       public Builder clearSpeech() {
-        
+
         speech_ = getDefaultInstance().getSpeech();
         onChanged();
         return this;
@@ -504,7 +504,7 @@ public final class Summarization {
     throw new NullPointerException();
   }
   checkByteStringIsUtf8(value);
-        
+
         speech_ = value;
         onChanged();
         return this;
@@ -664,7 +664,7 @@ public final class Summarization {
       if (ref instanceof java.lang.String) {
         return (java.lang.String) ref;
       } else {
-        com.google.protobuf.ByteString bs = 
+        com.google.protobuf.ByteString bs =
             (com.google.protobuf.ByteString) ref;
         java.lang.String s = bs.toStringUtf8();
         speech_ = s;
@@ -678,7 +678,7 @@ public final class Summarization {
         getSpeechBytes() {
       java.lang.Object ref = speech_;
       if (ref instanceof java.lang.String) {
-        com.google.protobuf.ByteString b = 
+        com.google.protobuf.ByteString b =
             com.google.protobuf.ByteString.copyFromUtf8(
                 (java.lang.String) ref);
         speech_ = b;
@@ -1014,7 +1014,7 @@ public final class Summarization {
           getSpeechBytes() {
         java.lang.Object ref = speech_;
         if (ref instanceof String) {
-          com.google.protobuf.ByteString b = 
+          com.google.protobuf.ByteString b =
               com.google.protobuf.ByteString.copyFromUtf8(
                   (java.lang.String) ref);
           speech_ = b;
@@ -1031,7 +1031,7 @@ public final class Summarization {
         if (value == null) {
     throw new NullPointerException();
   }
-  
+
         speech_ = value;
         onChanged();
         return this;
@@ -1040,7 +1040,7 @@ public final class Summarization {
        * <code>string speech = 1;</code>
        */
       public Builder clearSpeech() {
-        
+
         speech_ = getDefaultInstance().getSpeech();
         onChanged();
         return this;
@@ -1054,7 +1054,7 @@ public final class Summarization {
     throw new NullPointerException();
   }
   checkByteStringIsUtf8(value);
-        
+
         speech_ = value;
         onChanged();
         return this;
@@ -1114,12 +1114,12 @@ public final class Summarization {
 
   private static final com.google.protobuf.Descriptors.Descriptor
     internal_static_Speech_descriptor;
-  private static final 
+  private static final
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
       internal_static_Speech_fieldAccessorTable;
   private static final com.google.protobuf.Descriptors.Descriptor
     internal_static_SummarizedSpeech_descriptor;
-  private static final 
+  private static final
     com.google.protobuf.GeneratedMessageV3.FieldAccessorTable
       internal_static_SummarizedSpeech_fieldAccessorTable;
 
